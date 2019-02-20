@@ -1,6 +1,7 @@
 package com.example.demo.models;
 
 import lombok.Data;
+import org.springframework.stereotype.Controller;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
